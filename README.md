@@ -15,4 +15,4 @@ Snake er et klassisk spill hvor spilleren styrer en slange for å spise mat og v
 
 ## Eksempel
 Her er et eksempel på hvordan spillet ser ut i aksjon:
-![Gameplay](resources\snake.png)
+![Gameplay](TDT4100-prosjekt-birkot\Resources\image.png)
